@@ -13,7 +13,8 @@ SPIDER_MODULES = ['homeWork20.spiders']
 NEWSPIDER_MODULE = 'homeWork20.spiders'
 
 
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
+# Crawl responsibly by identifying yourself (and your website) on
+# the user-agent
 # USER_AGENT = 'homeWork20 (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
